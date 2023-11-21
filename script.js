@@ -47,5 +47,4 @@ function calculate() {
     v.style.padding = "10px"
     v.style.marginTop = "10px"
     display.appendChild(v)
-
 }
